@@ -60,10 +60,17 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.23f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\thirdPersonCam.cs" />
-    <Compile Include="Assets\Scripts\cameraMovement.cs" />
-    <Compile Include="Assets\Scripts\killPlayer.cs" />
-    <Compile Include="Assets\Scripts\playerMovement.cs" />
+    <Compile Include="Assets\Scripts\CameraMovement.cs" />
+    <Compile Include="Assets\Scripts\EndScript.cs" />
+    <Compile Include="Assets\Scripts\RedOnEnd.cs" />
+    <Compile Include="Assets\Scripts\ButtonGate.cs" />
+    <Compile Include="Assets\Scripts\StartScript.cs" />
+    <Compile Include="Assets\Scripts\NextLevelSpawn.cs" />
+    <Compile Include="Assets\Scripts\BoxMovement.cs" />
+    <Compile Include="Assets\Scripts\ThirdPersonCam.cs" />
+    <Compile Include="Assets\Scripts\GreenOnEnd.cs" />
+    <Compile Include="Assets\Scripts\KillPlayer.cs" />
+    <Compile Include="Assets\Scripts\PlayerMovement.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class playerMovement : MonoBehaviour
+public class PlayerMovement : MonoBehaviour
 {
     [Header("Movement")]
     public float moveSpeed;
@@ -37,7 +37,7 @@ public class playerMovement : MonoBehaviour
     {
         MyInput();
         SpeedControl();
-        grounded = Physics.Raycast(transform.position, Vector3.down, playerHeight * 0.5f + 0.2f, whatIsGround);
+        /*grounded = Physics.Raycast(transform.position, Vector3.down, playerHeight * (0.5f + 0.1f), whatIsGround);
 
         if (grounded)
         {
@@ -45,7 +45,8 @@ public class playerMovement : MonoBehaviour
         } else
         {
             rb.drag = 0;  
-        }
+        }*/
+        rb.drag = groundDrag;
     }
 
     private void FixedUpdate()
