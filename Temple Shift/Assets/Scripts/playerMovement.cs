@@ -37,15 +37,6 @@ public class PlayerMovement : MonoBehaviour
     {
         MyInput();
         SpeedControl();
-        /*grounded = Physics.Raycast(transform.position, Vector3.down, playerHeight * (0.5f + 0.1f), whatIsGround);
-
-        if (grounded)
-        {
-            rb.drag = groundDrag;
-        } else
-        {
-            rb.drag = 0;  
-        }*/
         rb.drag = groundDrag;
     }
 

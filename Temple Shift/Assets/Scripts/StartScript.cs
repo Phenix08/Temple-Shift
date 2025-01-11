@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class StartScript : MonoBehaviour
@@ -9,18 +10,29 @@ public class StartScript : MonoBehaviour
 
     private GameObject playerRed;
     private GameObject playerGreen;
-    // Start is called before the first frame update
+
+    private float teleportDelay = 0.2f; // Delay in seconds
+    private float timer = 0f;
+    private bool hasTeleported = false;
+
     void Start()
     {
         playerGreen = GameObject.Find("PlayerGreen");
         playerRed = GameObject.Find("PlayerRed");
-        playerRed.transform.position = spawnRed.transform.position;
-        playerGreen.transform.position = spawnGreen.transform.position;
     }
 
-    // Update is called once per frame
     void Update()
     {
-        
+        if (!hasTeleported)
+        {
+            timer += Time.deltaTime;
+
+            if (timer >= teleportDelay)
+            {
+                playerRed.transform.position = spawnRed.transform.position;
+                playerGreen.transform.position = spawnGreen.transform.position;
+                hasTeleported = true; // Ensure teleport happens only once
+            }
+        }
     }
 }

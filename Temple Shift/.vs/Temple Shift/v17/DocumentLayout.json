@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Faks\\Letnik3\\Semester 5\\RGTI\\IDEJA\\Unity\\Temple-Shift\\Temple Shift\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0537C2E7-F4F6-B462-D10F-56E4D47FCF06}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Faks\\Letnik3\\Semester 5\\RGTI\\IDEJA\\Unity\\Temple-Shift\\Temple Shift\\assets\\scripts\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0537C2E7-F4F6-B462-D10F-56E4D47FCF06}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0537C2E7-F4F6-B462-D10F-56E4D47FCF06}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Faks\\Letnik3\\Semester 5\\RGTI\\IDEJA\\Unity\\Temple-Shift\\Temple Shift\\assets\\scripts\\thirdpersoncam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0537C2E7-F4F6-B462-D10F-56E4D47FCF06}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thirdpersoncam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0537C2E7-F4F6-B462-D10F-56E4D47FCF06}|Assembly-CSharp.csproj|c:\\users\\administrator\\faks\\letnik3\\semester 5\\rgti\\ideja\\unity\\temple-shift\\temple shift\\assets\\scripts\\startscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0537C2E7-F4F6-B462-D10F-56E4D47FCF06}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\startscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0537C2E7-F4F6-B462-D10F-56E4D47FCF06}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Faks\\Letnik3\\Semester 5\\RGTI\\IDEJA\\Unity\\Temple-Shift\\Temple Shift\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,7 +15,15 @@
       "RelativeMoniker": "D:0:0:{0537C2E7-F4F6-B462-D10F-56E4D47FCF06}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\killplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0537C2E7-F4F6-B462-D10F-56E4D47FCF06}|Assembly-CSharp.csproj|c:\\users\\administrator\\faks\\letnik3\\semester 5\\rgti\\ideja\\unity\\temple-shift\\temple shift\\assets\\scripts\\buttongate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0537C2E7-F4F6-B462-D10F-56E4D47FCF06}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Faks\\Letnik3\\Semester 5\\RGTI\\IDEJA\\Unity\\Temple-Shift\\Temple Shift\\assets\\scripts\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0537C2E7-F4F6-B462-D10F-56E4D47FCF06}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0537C2E7-F4F6-B462-D10F-56E4D47FCF06}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Faks\\Letnik3\\Semester 5\\RGTI\\IDEJA\\Unity\\Temple-Shift\\Temple Shift\\assets\\scripts\\thirdpersoncam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0537C2E7-F4F6-B462-D10F-56E4D47FCF06}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thirdpersoncam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0537C2E7-F4F6-B462-D10F-56E4D47FCF06}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Faks\\Letnik3\\Semester 5\\RGTI\\IDEJA\\Unity\\Temple-Shift\\Temple Shift\\assets\\scripts\\buttongate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0537C2E7-F4F6-B462-D10F-56E4D47FCF06}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttongate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -39,11 +43,7 @@
       "RelativeMoniker": "D:0:0:{0537C2E7-F4F6-B462-D10F-56E4D47FCF06}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\nextlevelspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0537C2E7-F4F6-B462-D10F-56E4D47FCF06}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Faks\\Letnik3\\Semester 5\\RGTI\\IDEJA\\Unity\\Temple-Shift\\Temple Shift\\assets\\scripts\\startscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0537C2E7-F4F6-B462-D10F-56E4D47FCF06}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\startscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0537C2E7-F4F6-B462-D10F-56E4D47FCF06}|Assembly-CSharp.csproj|c:\\users\\administrator\\faks\\letnik3\\semester 5\\rgti\\ideja\\unity\\temple-shift\\temple shift\\assets\\scripts\\endscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0537C2E7-F4F6-B462-D10F-56E4D47FCF06}|Assembly-CSharp.csproj|C:\\Users\\Administrator\\Faks\\Letnik3\\Semester 5\\RGTI\\IDEJA\\Unity\\Temple-Shift\\Temple Shift\\assets\\scripts\\endscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0537C2E7-F4F6-B462-D10F-56E4D47FCF06}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\endscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -66,25 +66,24 @@
               "RelativeToolTip": "Assets\\Scripts\\EndScript.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T15:17:27.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T15:17:27.637Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "StartScript.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Faks\\Letnik3\\Semester 5\\RGTI\\IDEJA\\Unity\\Temple-Shift\\Temple Shift\\Assets\\Scripts\\StartScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\StartScript.cs",
               "ToolTip": "C:\\Users\\Administrator\\Faks\\Letnik3\\Semester 5\\RGTI\\IDEJA\\Unity\\Temple-Shift\\Temple Shift\\Assets\\Scripts\\StartScript.cs",
               "RelativeToolTip": "Assets\\Scripts\\StartScript.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwBAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-08T14:00:03.963Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "NextLevelSpawn.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Faks\\Letnik3\\Semester 5\\RGTI\\IDEJA\\Unity\\Temple-Shift\\Temple Shift\\Assets\\Scripts\\NextLevelSpawn.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\NextLevelSpawn.cs",
@@ -92,12 +91,11 @@
               "RelativeToolTip": "Assets\\Scripts\\NextLevelSpawn.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAwwCYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T13:42:21.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T13:42:21.976Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "GreenOnEnd.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Faks\\Letnik3\\Semester 5\\RGTI\\IDEJA\\Unity\\Temple-Shift\\Temple Shift\\Assets\\Scripts\\GreenOnEnd.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GreenOnEnd.cs",
@@ -105,12 +103,11 @@
               "RelativeToolTip": "Assets\\Scripts\\GreenOnEnd.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T13:40:38.787Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T13:40:38.787Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "RedOnEnd.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Faks\\Letnik3\\Semester 5\\RGTI\\IDEJA\\Unity\\Temple-Shift\\Temple Shift\\Assets\\Scripts\\RedOnEnd.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\RedOnEnd.cs",
@@ -118,12 +115,11 @@
               "RelativeToolTip": "Assets\\Scripts\\RedOnEnd.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T13:40:37.808Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T13:40:37.808Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "BoxMovement.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Faks\\Letnik3\\Semester 5\\RGTI\\IDEJA\\Unity\\Temple-Shift\\Temple Shift\\Assets\\Scripts\\boxMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\boxMovement.cs",
@@ -131,12 +127,11 @@
               "RelativeToolTip": "Assets\\Scripts\\boxMovement.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T10:51:41.911Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T10:51:41.911Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ButtonGate.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Faks\\Letnik3\\Semester 5\\RGTI\\IDEJA\\Unity\\Temple-Shift\\Temple Shift\\Assets\\Scripts\\ButtonGate.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonGate.cs",
@@ -144,38 +139,37 @@
               "RelativeToolTip": "Assets\\Scripts\\ButtonGate.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T10:20:21.097Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T10:20:21.097Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "KillPlayer.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Faks\\Letnik3\\Semester 5\\RGTI\\IDEJA\\Unity\\Temple-Shift\\Temple Shift\\Assets\\Scripts\\killPlayer.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\killPlayer.cs",
               "ToolTip": "C:\\Users\\Administrator\\Faks\\Letnik3\\Semester 5\\RGTI\\IDEJA\\Unity\\Temple-Shift\\Temple Shift\\Assets\\Scripts\\killPlayer.cs",
               "RelativeToolTip": "Assets\\Scripts\\killPlayer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA1AAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA8AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T18:44:49.061Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Faks\\Letnik3\\Semester 5\\RGTI\\IDEJA\\Unity\\Temple-Shift\\Temple Shift\\Assets\\Scripts\\playerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\playerMovement.cs",
               "ToolTip": "C:\\Users\\Administrator\\Faks\\Letnik3\\Semester 5\\RGTI\\IDEJA\\Unity\\Temple-Shift\\Temple Shift\\Assets\\Scripts\\playerMovement.cs",
               "RelativeToolTip": "Assets\\Scripts\\playerMovement.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCcAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T18:00:32.99Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ThirdPersonCam.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Faks\\Letnik3\\Semester 5\\RGTI\\IDEJA\\Unity\\Temple-Shift\\Temple Shift\\Assets\\Scripts\\thirdPersonCam.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\thirdPersonCam.cs",
@@ -183,21 +177,19 @@
               "RelativeToolTip": "Assets\\Scripts\\thirdPersonCam.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T17:09:24.831Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T17:09:24.831Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "CameraMovement.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Faks\\Letnik3\\Semester 5\\RGTI\\IDEJA\\Unity\\Temple-Shift\\Temple Shift\\Assets\\Scripts\\cameraMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\cameraMovement.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Faks\\Letnik3\\Semester 5\\RGTI\\IDEJA\\Unity\\Temple-Shift\\Temple Shift\\Assets\\Scripts\\cameraMovement.cs",
-              "RelativeToolTip": "Assets\\Scripts\\cameraMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Faks\\Letnik3\\Semester 5\\RGTI\\IDEJA\\Unity\\Temple-Shift\\Temple Shift\\Assets\\Scripts\\CameraMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraMovement.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Faks\\Letnik3\\Semester 5\\RGTI\\IDEJA\\Unity\\Temple-Shift\\Temple Shift\\Assets\\Scripts\\CameraMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraMovement.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T17:05:11.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T17:05:11.584Z"
             }
           ]
         }
