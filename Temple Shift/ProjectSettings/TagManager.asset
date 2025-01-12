@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ground
+  - p for control
+  - controls
   layers:
   - Default
   - TransparentFX
