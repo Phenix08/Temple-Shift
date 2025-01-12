@@ -75,6 +75,7 @@
     <Compile Include="Assets/Scripts/GreenOnEnd.cs" />
     <Compile Include="Assets/Scripts/killPlayer.cs" />
     <Compile Include="Assets/Scripts/playerMovement.cs" />
+    <Compile Include="Assets/Scripts/ScreenManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
