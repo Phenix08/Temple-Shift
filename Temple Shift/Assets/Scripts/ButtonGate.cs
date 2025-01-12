@@ -4,17 +4,18 @@ using UnityEngine;
 public class ButtonGate : MonoBehaviour
 {
     public GameObject gate;
-    private GameObject playerGreen;
-    private GameObject playerRed;
+    public AudioClip moveSound; 
     public float distance;
     public float speed;
 
+    private GameObject playerGreen;
+    private GameObject playerRed;
     private Vector3 open;
     private Vector3 closed;
-    private Vector3 targetPosition;  // The current target position for the gate
+    private Vector3 targetPosition;
     private bool isMoving = false;
+    private AudioSource audioSource;
 
-    // Start is called before the first frame update
     void Start()
     {
         playerRed = GameObject.Find("PlayerRed");
@@ -22,13 +23,20 @@ public class ButtonGate : MonoBehaviour
         closed = gate.transform.position;
         open = closed - new Vector3(0, distance, 0);
         targetPosition = closed;
+
+        audioSource = GetComponent<AudioSource>();
+        if (audioSource == null)
+        {
+            audioSource = gameObject.AddComponent<AudioSource>();
+        }
+        audioSource.clip = moveSound; 
+        audioSource.loop = false; 
     }
 
     private void OnTriggerEnter(Collider other)
     {
         if (other.gameObject == playerRed || other.gameObject == playerGreen)
         {
-            // Set the target position to open
             targetPosition = open;
             if (!isMoving)
             {
@@ -42,7 +50,6 @@ public class ButtonGate : MonoBehaviour
     {
         if (other.gameObject == playerRed || other.gameObject == playerGreen)
         {
-            // Set the target position to closed
             targetPosition = closed;
             if (!isMoving)
             {
@@ -56,14 +63,18 @@ public class ButtonGate : MonoBehaviour
     {
         isMoving = true;
 
+        if (moveSound != null && audioSource != null)
+        {
+            audioSource.Play();
+        }
+
         while (Vector3.Distance(gate.transform.position, targetPosition) > 0.01f)
         {
             gate.transform.position = Vector3.Lerp(gate.transform.position, targetPosition, Time.deltaTime * (1 / speed));
             yield return null;
         }
 
-        gate.transform.position = targetPosition;  // Ensure it reaches the exact position
+        gate.transform.position = targetPosition;
         isMoving = false;
     }
 }
-
